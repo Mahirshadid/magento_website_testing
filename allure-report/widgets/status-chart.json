@@ -1,0 +1,1 @@
+[{"uid":"d744c935e1b48025","name":"Should show items that are available","time":{"start":1733636250030,"stop":1733636250075,"duration":45},"status":"passed","severity":"normal"},{"uid":"9c0c13fb8f01642f","name":"Should seamlessly search an item","time":{"start":1733636247064,"stop":1733636250029,"duration":2965},"status":"passed","severity":"normal"}]

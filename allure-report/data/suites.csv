@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","45","Should show items that are available","","Sun Dec 08 11:37:30 GMT+06:00 2024","passed","Sun Dec 08 11:37:30 GMT+06:00 2024","","Search Features","",""
+"","2965","Should seamlessly search an item","","Sun Dec 08 11:37:27 GMT+06:00 2024","passed","Sun Dec 08 11:37:30 GMT+06:00 2024","","Search Features","",""

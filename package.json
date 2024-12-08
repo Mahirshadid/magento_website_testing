@@ -1,0 +1,30 @@
+{
+  "name": "magento-website-testing",
+  "version": "1.0.0",
+  "description": "Testing all the functionalities and other metrics.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx wdio run ./wdio.conf.js",
+    "report": "allure generate allure-results && allure open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahirshadid/magento_website_testing.git"
+  },
+  "author": "Mahir Shadid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahirshadid/magento_website_testing/issues"
+  },
+  "homepage": "https://github.com/Mahirshadid/magento_website_testing#readme",
+  "devDependencies": {
+    "@wdio/allure-reporter": "^9.2.14",
+    "@wdio/cli": "^9.4.1",
+    "@wdio/local-runner": "^9.4.1",
+    "@wdio/mocha-framework": "^9.2.8"
+  },
+  "dependencies": {
+    "allure-commandline": "^2.32.0"
+  }
+}
