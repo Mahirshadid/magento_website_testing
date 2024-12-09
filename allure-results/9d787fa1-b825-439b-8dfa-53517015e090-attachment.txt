@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//div/ol/li/div/div/strong/a[@class=\"product-item-link\"])[4]"
+}

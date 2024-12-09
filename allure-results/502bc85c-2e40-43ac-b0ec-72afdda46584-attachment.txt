@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//dd[@class=\"values\"]/span)[2]"
+}
